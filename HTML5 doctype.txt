@@ -1,0 +1,7 @@
+HTML5 doctype 
+Bootstrap requires the use of the HTML5 doctype. Without it, you’ll see some funky and incomplete styling
+
+<!doctype html>
+<html lang="en">
+  ...
+</html>
